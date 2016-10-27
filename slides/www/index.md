@@ -4,7 +4,11 @@
 
 #
 
-Customize your browser with WebExtensions
+Hack and Remix the Web with Web Extensions
+
+* Install Firefox 49
+* Copy example code
+* Install `web-ext` (optional)
 
 # ![Install add-on](images/install-addon.png)
 
