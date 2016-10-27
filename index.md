@@ -6,3 +6,4 @@
 
 Customize your browser with WebExtensions
 
+# ![Install add-on](images/install-addon.png)
