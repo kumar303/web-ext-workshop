@@ -11,15 +11,14 @@ View the slides: https://kumar303.github.io/web-ext-workshop/
 To build the slides, create a [virtualenv](https://pypi.python.org/pypi/virtualenv)
 and install some dependencies:
 
-    cd slides/
-    pip install -r requirements.txt
+    pip install -r ./slides/requirements.txt
 
 Then run this script:
 
-    ./build.sh
+    ./slides/build.sh
 
 Open `www/index.html` in your favorite web browser.
 
 Deploy the slides to Github Pages:
 
-    ./deploy.sh
+    ./slides/deploy.sh
