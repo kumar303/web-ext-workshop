@@ -11,6 +11,7 @@ View the slides: https://kumar303.github.io/web-ext-workshop/
 To build the slides, create a [virtualenv](https://pypi.python.org/pypi/virtualenv)
 and install some dependencies:
 
+    cd slides/
     pip install -r requirements.txt
 
 Then run this script:
