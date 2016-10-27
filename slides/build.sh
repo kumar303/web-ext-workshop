@@ -1,2 +1,3 @@
 #!/bin/bash
-bigpy -s www/index.md -j ./big/big.js -c ./big/big.css -m local
+root=./slides
+bigpy -s $root/www/index.md -j $root/big/big.js -c $root/big/big.css -m local

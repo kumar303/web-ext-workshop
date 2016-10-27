@@ -17,7 +17,7 @@ Then run this script:
 
     ./slides/build.sh
 
-Open `www/index.html` in your favorite web browser.
+Open `./slides/www/index.html` in your favorite web browser.
 
 Deploy the slides to Github Pages:
 
