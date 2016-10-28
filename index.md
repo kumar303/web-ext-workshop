@@ -45,4 +45,4 @@ We are here to help
 
 #
 
-Let's see a demo
+Let's look at the example code
