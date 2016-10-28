@@ -21,9 +21,10 @@ Optional installs
 Agenda
 
 * Work in groups
-* Create WebExtensions
+* Build WebExtensions
   * laptop
   * code editor
+  * example code
 
 #
 
@@ -37,3 +38,11 @@ Rules
 # ![The guardian with ads](images/guardian-with-ads.png)
 
 # ![The guardian without ads](images/guardian-without-ads.png)
+
+#
+
+We are here to help
+
+#
+
+Let's see a demo
