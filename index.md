@@ -7,7 +7,7 @@
 Hack and Remix the Web with WebExtensions
 
 * You'll need Firefox 49
-* Copy example from our USB drive
+* Example code from USB drive
 
 #
 
