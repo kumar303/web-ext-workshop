@@ -1,5 +1,5 @@
 function doActionCSS() {
-  chrome.tabs.insertCSS({code: 'body { display: none; }'}); 
+  chrome.tabs.insertCSS({code: '* { background: none !important; }'});
 }
 
 function doActionReset() {
