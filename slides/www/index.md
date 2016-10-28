@@ -6,9 +6,15 @@
 
 Hack and Remix the Web with WebExtensions
 
-* Install Firefox 49
-* Copy example code
-* Install `web-ext` (optional)
+* You'll need Firefox 49
+* Copy example from our USB drive
+
+#
+
+Optional installs
+
+* npm install web-ext
+* Firefox Developer Edition
 
 #
 
