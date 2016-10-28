@@ -1,10 +1,10 @@
-% Hack and Remix the Web with Web Extensions
+% Hack and Remix the Web with WebExtensions
 % Kumar McMillan, Luca Greco
 % 2016
 
 #
 
-Hack and Remix the Web with Web Extensions
+Hack and Remix the Web with WebExtensions
 
 * Install Firefox 49
 * Copy example code

@@ -1,7 +1,7 @@
 # WebExtension workshop
 
 This is the source of materials for
-[Hack and Remix the Web with Web Extensions](https://app.mozillafestival.org/#_session-409),
+[Hack and Remix the Web with WebExtensions](https://app.mozillafestival.org/#_session-409),
 a workshop at MozFest 2016.
 
 View the slides: https://kumar303.github.io/web-ext-workshop/
