@@ -10,6 +10,22 @@ Hack and Remix the Web with Web Extensions
 * Copy example code
 * Install `web-ext` (optional)
 
+#
+
+Agenda
+
+* Work in groups
+* Create WebExtensions
+  * laptop
+  * code editor
+
+#
+
+Rules
+
+1. Have fun
+2. Be respectful
+
 # ![Install add-on](images/install-addon.png)
 
 # ![The guardian with ads](images/guardian-with-ads.png)
