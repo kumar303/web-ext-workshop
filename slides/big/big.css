@@ -18,6 +18,10 @@ em, a {
   color:#8dbd0c;
 }
 
+ol {
+  margin-left: 0.8em;
+}
+
 a {
   background: #34d0e7;
   color:#000;
