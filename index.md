@@ -47,3 +47,12 @@ We are here to help
 #
 
 Let's look at the example code
+
+#
+
+Next:
+
+* Check out the example
+* Try building your own extension
+* Check out the docs:
+  * http://bit.ly/web-ext-mozfest
