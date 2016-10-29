@@ -8,6 +8,7 @@ Hack and Remix the Web with WebExtensions
 
 * You'll need Firefox 49
 * Example code from USB drive
+* http://bit.ly/web-ext-mozfest
 
 #
 
