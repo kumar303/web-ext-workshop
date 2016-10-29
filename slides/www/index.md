@@ -21,7 +21,7 @@ Optional installs
 
 Agenda
 
-* Work in groups
+* Working session
 * Build WebExtensions
   * laptop
   * code editor
